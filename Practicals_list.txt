@@ -1,0 +1,16 @@
+Dear students,
+
+Kindly follow this template for all the practicals. List of practicals we have completed are as follows: 
+
+>1. Write a C program to identify whether a given line is a comment or not.
+>2. Write a C program to test whether a given identifier is valid or not.
+3. Write a C program to simulate lexical analyzer for validating operators.
+>4. Write a C program to count the number of characters, words, spaces and lines in a given input file.
+>5. Write a C program to eliminate the comment lines from the program.
+6. Write a C program to recognize a valid arithmetic expression and to recognize the identifiers and operators present. Print them separately.
+6. Write a C program to recognize and count the number of identifiers in a given input file.
+7. Write a program to left factor the given grammar.
+>8.Write a C program to print all numbers from the given file.
+>9. Write a program to remove left recursion from the given grammar.
+10. write a program which generates the quadruple table for postfix string.
+11.write a program to identify all the tokens from the source code.

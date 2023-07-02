@@ -1,0 +1,16 @@
+hello HI how are you 20000
+34 hello new31 abstract keyword 45 23 yes
+class APP{
+    public static void main(String []agrs){
+        int i=10;
+        Sysetm.out.println("Number 14"+i);
+    }
+}
+kdjfkd ijsd sd
+df
+
+dfdf
+
+dfdff
+dr4br89sabbt2
+dkfjdfnd34

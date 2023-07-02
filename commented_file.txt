@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+// this is main function 
+void main(){
+    // Hello
+    /* 
+        This is starting of program
+    */
+    printf("Hello Word!");
+// single line comments
+/*
+   this is multiline comment
+*/
+}
+
+// End Of Program
