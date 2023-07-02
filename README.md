@@ -4,4 +4,4 @@
 
 #### All Practicals are performed using C language
 
-#### All Practicals are available in [a relative link](Practicals_list.txt)
+#### All Practicals are available in [Practicals_list.txt](Practicals_list.txt)
