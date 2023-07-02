@@ -1,7 +1,7 @@
 # System-Software-Practicals
 
-## Acedemic Subject Practicals Submission
+#### Acedemic Subject Practicals Submission
 
-## All Practicals are performed using C language
+#### All Practicals are performed using C language
 
-### All Practicals are available in Practicals_list.txt
+#### All Practicals are available in Practicals_list.txt
